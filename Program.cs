@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ChangeCalculatorApp
+namespace ChangeCalculator
 {
     public class ChangeCalculator
     {
